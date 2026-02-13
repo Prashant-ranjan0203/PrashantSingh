@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Terraform & CI/CD
 - 🌱 I’m learning Kubernetes deeply
 - 💬 Ask me about Linux, Bash, Ansible
-- 📫 How to reach me: yourmail@gmail.com
+- 📫 How to reach me: singhprashant0302@gmail.com
 
 ---
 
