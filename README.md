@@ -14,3 +14,14 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant-ranjan0203&show_icons=true&theme=radical)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prashant-ranjan0203&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=Prashant-ranjan0203&color=blue)
+
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible,jenkins,bash" />
