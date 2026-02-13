@@ -1,27 +1,43 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">Site Reliability Engineer | DevOps | Cloud</h3>
-
-- 🔭 I’m currently working on Terraform & CI/CD
-- 🌱 I’m learning Kubernetes deeply
-- 💬 Ask me about Linux, Bash, Ansible
-- 📫 How to reach me: singhprashant0302@gmail.com
+<h1 align="center">Hi 👋, I am Prashant</h1>
+<h3 align="center">Site Reliability Engineer | DevOps | Cloud Infrastructure</h3>
 
 ---
 
-### 🛠️ Languages and Tools:
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+### 🚀 About Me
 
+- 🔧 Working on Infrastructure Automation using Terraform
+- ⚙️ Building CI/CD pipelines (GitHub Actions / Jenkins)
+- ☁️ Experience with AWS (EC2, IAM, S3)
+- 🐧 Strong Linux & Bash scripting foundation
+- 📦 Learning Kubernetes deeply (Pods, Deployments, Services)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible,jenkins,bash,git,github" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant-ranjan0203&show_icons=true&theme=radical)
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prashant-ranjan0203&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Prashant-ranjan0203&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Prashant-ranjan0203&theme=radical)
+---
 
-![](https://komarev.com/ghpvc/?username=Prashant-ranjan0203&color=blue)
+### 📌 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible,jenkins,bash" />
+- 🔹 Terraform EC2 + S3 provisioning
+- 🔹 CI/CD Pipeline automation
+- 🔹 Kubernetes deployment with rolling updates
+- 🔹 Linux monitoring & disk alert script
+
+---
+
+### 📫 Connect With Me
+📧 singhprashant0302@gmail.com
